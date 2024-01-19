@@ -1,0 +1,14 @@
+{
+  "resourceName": "ampProjectFile",
+  "policyUUID": "f0ee6850",
+  "bucketName": "amplifyreactgraphql61f0d0829ec1440d900a9fd088c4",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
