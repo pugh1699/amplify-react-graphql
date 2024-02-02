@@ -12,9 +12,6 @@
       "AmplifyAppId": "d2rh824j7r83w"
     },
     "categories": {
-      "auth": {
-        "amplifyreactgraphqlf9ec397a": {}
-      },
       "api": {
         "amplifyreactgraphql": {}
       },
